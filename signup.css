@@ -1,0 +1,210 @@
+.signup p
+{
+    font-family: sans-serif;
+}
+.signup input
+{
+    height: 40px;
+    padding: 10px;
+    margin: 20px;
+    width: 100%;
+    margin: 5px 0 22px 0;
+    display: block;
+    border: none;
+    background: #f1f1f1;
+    font-family: sans-serif;
+}
+.sign
+{
+  text-align: center;
+  padding: 30px;
+  font-family: sans-serif;
+}
+button:hover 
+{
+  opacity:1;
+}
+button 
+{
+  background-color:coral;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.signupbtn 
+{
+  width: 50%;
+}
+.negation_bar ul 
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:100%;
+  background-color: black;
+  text-align:center ;
+  overflow: hidden;
+} 
+
+.negation_bar li a
+{
+  display:inline;
+  color: white;
+  padding: 15px 20px;
+  text-decoration: none;
+  float: left;
+  text-decoration: none;
+  border-right: 1px solid #bbb;
+  text-align: center;
+  font-family:sans-serif;
+}
+.negation_bar li a:hover {
+  background-color:#0b7dda;
+  color: white;
+}
+.negation_bar a
+{
+  display: block;
+  padding: 8px;
+  background-color:black;
+}
+form.example input[type=text] 
+{
+  padding: 20px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 30%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 13px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+
+form.example button:hover 
+{
+  background:#0b7dda ;
+}
+
+
+form.example::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+.copy
+{
+    text-align: center;
+    background-color:beige;
+}
+.copy p
+{
+    margin: 15px;
+}
+.visa
+{
+    text-align: center;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-snapchat {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+#face
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+#twit
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;   
+}
+#you
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none; 
+}
+#ins
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;  
+ 
+}
+#snap
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none; 
+}
+.social
+{
+    text-align: center;
+}
+.fa:hover 
+{
+    opacity: 0.7;
+}
+#found
+{
+    width: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+#lost
+{
+    width: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+.pt
+{
+    margin: 0;
+    padding: 0;
+    display :flex;
+}
