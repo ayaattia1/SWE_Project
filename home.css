@@ -1,0 +1,218 @@
+form.example input[type=text] 
+{
+  padding: 13px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 75%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 25%;
+  padding: 13px;
+  background-color: coral;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+
+form.example button:hover 
+{
+  background:#0b7dda ;
+}
+
+
+form.example::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+.disc
+{
+    margin:5px;
+    display: block;
+}
+.offer
+{
+    color: red;
+}
+.pro1
+{
+    display:inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+    
+}
+.pro2
+{
+    display: inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+.pro3
+{
+    display: inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+.pro4
+{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    font-family:sans-serif;
+    margin: 10px;
+}
+.pro5
+{
+    display: inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+.pro6
+{
+    display: inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+.pro7
+{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    font-family:sans-serif;
+    margin: 10px;
+}
+.pro8
+{
+    display: inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+.pro9
+{
+    display: inline-block;
+    width: 30%;
+    font-family:sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+.buy
+{
+    border: 20px;
+    border-radius: 30%;   
+        
+}
+.copy
+{
+    text-align: center;
+    background-color:beige;
+}
+.copy p
+{
+    margin: 15px;
+}
+.visa
+{
+    text-align: center;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-snapchat {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+#face
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:40%;
+}
+#twit
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;   
+  border-radius:40%;
+}
+#you
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none; 
+  border-radius:40%;
+}
+#ins
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;  
+  border-radius:40%;
+}
+#snap
+{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none; 
+  border-radius:40%;
+}
+.social
+{
+    text-align: center;
+}
+.fa:hover 
+{
+    opacity: 0.7;
+}
+.thank
+{
+   text-align: center;
+}
+.thank a
+{
+    color: coral;
+}
